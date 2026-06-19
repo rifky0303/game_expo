@@ -1,0 +1,8 @@
+{
+  "name": "Gacha Spin & Platformer Game",
+  "description": "Game undian gacha interaktif gaya retro platformer ala Mario Bros dengan Roda Putar Hadiah (Spin Wheel) untuk pembeli / pelanggan.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
